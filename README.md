@@ -15,4 +15,4 @@ public class AsyncTaskTestActivity extends Activity {
 
 # New header
 
-![](images/filename%20staroni.png)
+![](images/filename%20sunbro.png)
